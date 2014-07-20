@@ -1,0 +1,148 @@
+[
+
+  {
+    "_tri_n": "_btn_middle_n",
+    "_tri_grs": {
+      "human_form_gr": {
+        "local_form_gr": "input_form_btn",
+        "sort": 0
+      }
+    },
+    "_tri_dis": "middle_n",
+    "_tri_ty": "_btn",
+    "_tri_available": "all",
+    "on_click": "input_middle_n_gr"
+  },
+
+  {
+    "_tri_n": "_btn_last_n",
+    "_tri_grs": {
+      "human_form_gr": {
+        "local_form_gr": "input_form_btn",
+        "sort": 1
+      }
+    },
+    "_tri_dis": "last_n",
+    "_tri_ty": "_btn",
+    "_tri_available": "all",
+    "on_click": "input_last_n_gr"
+  },
+
+  {
+    "_tri_n": "_btn_dt_registered",
+    "_tri_grs": {
+      "company_form_gr": {
+        "local_form_gr": "input_form_btn",
+        "sort": 0
+      }
+    },
+    "_tri_dis": "_dt_registered",
+    "_tri_ty": "_btn",
+    "_tri_available": "all",
+    "on_click": "input_dt_registered_gr"
+  },
+
+  {
+    "_tri_n": "_btn_dt_of_birth",
+    "_tri_grs": {
+      "human_form_gr": {
+        "local_form_gr": "input_form_btn",
+        "sort": 2
+      }
+    },
+    "_tri_dis": "_dt_of_birth",
+    "_tri_ty": "_btn",
+    "_tri_available": "all",
+    "on_click": "input_dt_of_birth_gr"
+  },
+
+  {
+    "_tri_n": "_btn_email_ad",
+    "_tri_grs": {
+      "human_form_gr": {
+        "local_form_gr": "input_form_btn",
+        "sort": 3
+      },
+      "company_form_gr": {
+        "local_form_gr": "input_form_btn",
+        "sort": 1
+      }
+    },
+    "_tri_dis": "email_ad",
+    "_tri_ty": "_btn",
+    "_tri_available": "all",
+    "on_click": "input_email_gr"
+  },
+
+  {
+    "_tri_n": "_btn_mobile_num",
+    "_tri_grs": {
+      "human_form_gr": {
+        "local_form_gr": "input_form_btn",
+        "sort": 4
+      },
+      "company_form_gr": {
+        "local_form_gr": "input_form_btn",
+        "sort": 2
+      }
+    },
+    "_tri_dis": "mobile_num",
+    "_tri_ty": "_btn",
+    "_tri_available": "all",
+    "on_click": "input_mobile_gr"
+  },
+
+  {
+    "_tri_n": "_btn_city_n",
+    "_tri_grs": {
+      "human_form_gr": {
+        "local_form_gr": "input_form_btn",
+        "sort": 5
+      },
+      "company_form_gr": {
+        "local_form_gr": "input_form_btn",
+        "sort": 3
+      }
+    },
+    "_tri_dis": "city_n",
+    "_tri_ty": "_btn",
+    "_tri_available": "all",
+    "on_click": "input_city_n_gr"
+  },
+
+  {
+    "_tri_n": "_btn_country_n",
+    "_tri_grs": {
+      "human_form_gr": {
+        "local_form_gr": "input_form_btn",
+        "sort": 6
+      },
+      "company_form_gr": {
+        "local_form_gr": "input_form_btn",
+        "sort": 4
+      }
+    },
+    "_tri_dis": "country_n",
+    "_tri_ty": "_btn",
+    "_tri_available": "all",
+    "on_click": "input_country_n_gr"
+  },
+
+  {
+    "_tri_n": "_btn_service_n",
+    "_tri_grs": {
+      "human_form_gr": {
+        "local_form_gr": "input_form_btn",
+        "sort": 7
+      },
+      "company_form_gr": {
+        "local_form_gr": "input_form_btn",
+        "sort": 5
+      }
+    },
+    "_tri_dis": "service_n",
+    "_tri_ty": "_btn",
+    "_tri_available": "all",
+    "on_click": "input_service_gr"
+  }
+]

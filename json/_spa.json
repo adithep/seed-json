@@ -1,0 +1,42 @@
+[
+  {
+    "_spa": "form_input",
+    "_spa_tem": "_def",
+    "_spa_gr": [
+      "input_form_n_gr"
+    ]
+  },
+
+  {
+    "_spa": "human_btn_spa",
+    "_spa_tem": "button_list",
+    "_spa_gr": [
+      "human_form_gr"
+    ]
+  },
+
+  {
+    "_spa": "companies_btn_spa",
+    "_spa_tem": "button_list",
+    "_spa_gr": [
+      "company_form_gr"
+    ]
+  },
+
+  {
+    "_spa": "humans_input_spa",
+    "_spa_tem": "insert_form",
+    "_spa_gr": [
+      "input_title_n_gr",
+      "input_first_n_gr"
+    ]
+  },
+
+  {
+    "_spa": "companies_input_spa",
+    "_spa_tem": "insert_form",
+    "_spa_gr": [
+      "input_company_n_gr"
+    ]
+  }
+]

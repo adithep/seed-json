@@ -1,0 +1,42 @@
+[
+
+  {
+    "_tri_n": "_get_input_form",
+    "_tri_dis": "input_form_n",
+    "on_select": "write_form_btn",
+    "_tri_select_key": "input_form_gr",
+    "_tri_ty": "input",
+    "_tri_available": "all",
+    "_tri_grs": {
+      "input_form_n_gr": {
+        "sort": 0
+      }
+    }
+  },
+
+  {
+    "_tri_n": "insert_button_list",
+    "_tri_ty": "_btn_list",
+    "_tri_select_key": "input_form_gr",
+    "_tri_available": "all",
+    "_tri_grs": {
+      "insert_button_list_gr": {
+        "sort": 0
+      }
+    }
+  },
+
+  {
+    "_tri_n": "insert_input_form",
+    "_tri_ty": "insert_form",
+    "_tri_select_key": "input_form_gr",
+    "_tri_available": "all",
+    "_tri_grs": {
+      "insert_input_form_gr": {
+        "sort": 0
+      }
+    }
+  }
+
+
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "_tri_n": "input_dte_of_entry",
+    "_tri_dis": "_dt_of_entry",
+    "_tri_ty": "input",
+    "on_submit": "_submit_dte_of_entry"
+  },
+
+  {
+    "_tri_n": "input_service_n",
+    "_tri_dis": "service_n",
+    "_tri_ty": "input",
+    "on_submit": "_submit_service_n"
+  },
+
+  {
+    "_tri_n": "input_currency_c",
+    "_tri_dis": "currency_c",
+    "_tri_ty": "input",
+    "on_submit": "_submit_currency_n"
+  },
+
+  {
+    "_tri_n": "input_cost",
+    "_tri_dis": "cost",
+    "_tri_ty": "input",
+    "span_attrs": {"class": "s_liga"},
+    "on_submit": "_submit_cost"
+  }
+]

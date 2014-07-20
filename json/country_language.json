@@ -1,0 +1,1370 @@
+[
+  {
+    "country_n": "Afghanistan",
+    "language_n": "Pashto, Pushto"
+  },
+  {
+    "country_n": "Afghanistan",
+    "language_n": "Uzbek"
+  },
+  {
+    "country_n": "Afghanistan",
+    "language_n": "Dzongkha"
+  },
+  {
+    "country_n": "Åland Islands",
+    "language_n": "Swedish"
+  },
+  {
+    "country_n": "Albania",
+    "language_n": "Albanian"
+  },
+  {
+    "country_n": "Algeria",
+    "language_n": "Arabic"
+  },
+  {
+    "country_n": "American Samoa",
+    "language_n": "English"
+  },
+  {
+    "country_n": "American Samoa",
+    "language_n": "Samoan"
+  },
+  {
+    "country_n": "Andorra",
+    "language_n": "Catalan; Valencian"
+  },
+  {
+    "country_n": "Angola",
+    "language_n": "Portuguese"
+  },
+  {
+    "country_n": "Anguilla",
+    "language_n": "English"
+  },
+  {
+    "country_n": "Antigua and Barbuda",
+    "language_n": "English"
+  },
+  {
+    "country_n": "Argentina",
+    "language_n": "Spanish"
+  },
+  {
+    "country_n": "Argentina",
+    "language_n": "Guaraní"
+  },
+  {
+    "country_n": "Armenia",
+    "language_n": "Armenian"
+  },
+  {
+    "country_n": "Armenia",
+    "language_n": "Russian"
+  },
+  {
+    "country_n": "Aruba",
+    "language_n": "Dutch"
+  },
+  {
+    "country_n": "Austria",
+    "language_n": "German"
+  },
+  {
+    "country_n": "Azerbaijan",
+    "language_n": "Azerbaijani"
+  },
+  {
+    "country_n": "Azerbaijan",
+    "language_n": "Armenian"
+  },
+  {
+    "country_n": "Bahamas",
+    "language_n": "English"
+  },
+  {
+    "country_n": "Bahrain",
+    "language_n": "Arabic"
+  },
+  {
+    "country_n": "Bangladesh",
+    "language_n": "Bengali"
+  },
+  {
+    "country_n": "Barbados",
+    "language_n": "English"
+  },
+  {
+    "country_n": "Belarus",
+    "language_n": "Belarusian"
+  },
+  {
+    "country_n": "Belarus",
+    "language_n": "Russian"
+  },
+  {
+    "country_n": "Belgium",
+    "language_n": "Dutch"
+  },
+  {
+    "country_n": "Belgium",
+    "language_n": "French"
+  },
+  {
+    "country_n": "Belgium",
+    "language_n": "German"
+  },
+  {
+    "country_n": "Belize",
+    "language_n": "English"
+  },
+  {
+    "country_n": "Belize",
+    "language_n": "Spanish"
+  },
+  {
+    "country_n": "Benin",
+    "language_n": "French"
+  },
+  {
+    "country_n": "Bermuda",
+    "language_n": "English"
+  },
+  {
+    "country_n": "Bhutan",
+    "language_n": "Turkmen"
+  },
+  {
+    "country_n": "Bolivia",
+    "language_n": "Spanish"
+  },
+  {
+    "country_n": "Bolivia",
+    "language_n": "Aymara"
+  },
+  {
+    "country_n": "Bolivia",
+    "language_n": "Quechua"
+  },
+  {
+    "country_n": "Bosnia and Herzegovina",
+    "language_n": "Bosnian"
+  },
+  {
+    "country_n": "Bosnia and Herzegovina",
+    "language_n": "Croatian"
+  },
+  {
+    "country_n": "Bosnia and Herzegovina",
+    "language_n": "Serbian"
+  },
+  {
+    "country_n": "Botswana",
+    "language_n": "English"
+  },
+  {
+    "country_n": "Botswana",
+    "language_n": "Tswana"
+  },
+  {
+    "country_n": "Brazil",
+    "language_n": "Portuguese"
+  },
+  {
+    "country_n": "British Indian Ocean Territory",
+    "language_n": "English"
+  },
+  {
+    "country_n": "British Virgin Islands",
+    "language_n": "English"
+  },
+  {
+    "country_n": "Brunei",
+    "language_n": "Malay"
+  },
+  {
+    "country_n": "Bulgaria",
+    "language_n": "Bulgarian"
+  },
+  {
+    "country_n": "Burkina Faso",
+    "language_n": "French"
+  },
+  {
+    "country_n": "Burkina Faso",
+    "language_n": "Fula; Fulah; Pulaar; Pular"
+  },
+  {
+    "country_n": "Burundi",
+    "language_n": "French"
+  },
+  {
+    "country_n": "Burundi",
+    "language_n": "Kirundi"
+  },
+  {
+    "country_n": "Cameroon",
+    "language_n": "English"
+  },
+  {
+    "country_n": "Cameroon",
+    "language_n": "French"
+  },
+  {
+    "country_n": "Canada",
+    "language_n": "English"
+  },
+  {
+    "country_n": "Canada",
+    "language_n": "French"
+  },
+  {
+    "country_n": "Cape Verde",
+    "language_n": "Portuguese"
+  },
+  {
+    "country_n": "Cayman Islands",
+    "language_n": "English"
+  },
+  {
+    "country_n": "Central African Republic",
+    "language_n": "French"
+  },
+  {
+    "country_n": "Central African Republic",
+    "language_n": "Sango"
+  },
+  {
+    "country_n": "Chad",
+    "language_n": "Arabic"
+  },
+  {
+    "country_n": "Chad",
+    "language_n": "French"
+  },
+  {
+    "country_n": "Chile",
+    "language_n": "Spanish"
+  },
+  {
+    "country_n": "China",
+    "language_n": "Chinese"
+  },
+  {
+    "country_n": "Colombia",
+    "language_n": "Spanish"
+  },
+  {
+    "country_n": "Comoros",
+    "language_n": "Arabic"
+  },
+  {
+    "country_n": "Comoros",
+    "language_n": "French"
+  },
+  {
+    "country_n": "Republic of the Congo",
+    "language_n": "French"
+  },
+  {
+    "country_n": "Republic of the Congo",
+    "language_n": "Lingala"
+  },
+  {
+    "country_n": "Democratic Republic of the Congo",
+    "language_n": "French"
+  },
+  {
+    "country_n": "Democratic Republic of the Congo",
+    "language_n": "Lingala"
+  },
+  {
+    "country_n": "Democratic Republic of the Congo",
+    "language_n": "Kongo"
+  },
+  {
+    "country_n": "Democratic Republic of the Congo",
+    "language_n": "Swahili"
+  },
+  {
+    "country_n": "Democratic Republic of the Congo",
+    "language_n": "Luba-Katanga"
+  },
+  {
+    "country_n": "Cook Islands",
+    "language_n": "English"
+  },
+  {
+    "country_n": "Costa Rica",
+    "language_n": "Spanish"
+  },
+  {
+    "country_n": "Côte d'Ivoire",
+    "language_n": "French"
+  },
+  {
+    "country_n": "Croatia",
+    "language_n": "Croatian"
+  },
+  {
+    "country_n": "Cuba",
+    "language_n": "Spanish"
+  },
+  {
+    "country_n": "Cyprus",
+    "language_n": "Greek, Modern"
+  },
+  {
+    "country_n": "Cyprus",
+    "language_n": "Turkish"
+  },
+  {
+    "country_n": "Cyprus",
+    "language_n": "Armenian"
+  },
+  {
+    "country_n": "Czech Republic",
+    "language_n": "Czech"
+  },
+  {
+    "country_n": "Czech Republic",
+    "language_n": "Slovak"
+  },
+  {
+    "country_n": "Denmark",
+    "language_n": "Danish"
+  },
+  {
+    "country_n": "Djibouti",
+    "language_n": "Arabic"
+  },
+  {
+    "country_n": "Djibouti",
+    "language_n": "French"
+  },
+  {
+    "country_n": "Dominica",
+    "language_n": "English"
+  },
+  {
+    "country_n": "Dominican Republic",
+    "language_n": "Spanish"
+  },
+  {
+    "country_n": "Ecuador",
+    "language_n": "Spanish"
+  },
+  {
+    "country_n": "Egypt",
+    "language_n": "Arabic"
+  },
+  {
+    "country_n": "El Salvador",
+    "language_n": "Spanish"
+  },
+  {
+    "country_n": "Equatorial Guinea",
+    "language_n": "Spanish"
+  },
+  {
+    "country_n": "Equatorial Guinea",
+    "language_n": "French"
+  },
+  {
+    "country_n": "Eritrea",
+    "language_n": "English"
+  },
+  {
+    "country_n": "Eritrea",
+    "language_n": "Arabic"
+  },
+  {
+    "country_n": "Eritrea",
+    "language_n": "Tigrinya"
+  },
+  {
+    "country_n": "Estonia",
+    "language_n": "Estonian"
+  },
+  {
+    "country_n": "Ethiopia",
+    "language_n": "Amharic"
+  },
+  {
+    "country_n": "Falkland Islands",
+    "language_n": "English"
+  },
+  {
+    "country_n": "Faroe Islands",
+    "language_n": "Faroese"
+  },
+  {
+    "country_n": "Fiji",
+    "language_n": "English"
+  },
+  {
+    "country_n": "Fiji",
+    "language_n": "Fijian"
+  },
+  {
+    "country_n": "Fiji",
+    "language_n": "Hindi"
+  },
+  {
+    "country_n": "Fiji",
+    "language_n": "Urdu"
+  },
+  {
+    "country_n": "Finland",
+    "language_n": "Finnish"
+  },
+  {
+    "country_n": "Finland",
+    "language_n": "Swedish"
+  },
+  {
+    "country_n": "France",
+    "language_n": "French"
+  },
+  {
+    "country_n": "French Guiana",
+    "language_n": "French"
+  },
+  {
+    "country_n": "French Polynesia",
+    "language_n": "French"
+  },
+  {
+    "country_n": "French Southern and Antarctic Lands",
+    "language_n": "French"
+  },
+  {
+    "country_n": "Gabon",
+    "language_n": "French"
+  },
+  {
+    "country_n": "Gambia",
+    "language_n": "English"
+  },
+  {
+    "country_n": "Georgia",
+    "language_n": "Georgian"
+  },
+  {
+    "country_n": "Germany",
+    "language_n": "German"
+  },
+  {
+    "country_n": "Ghana",
+    "language_n": "English"
+  },
+  {
+    "country_n": "Gibraltar",
+    "language_n": "English"
+  },
+  {
+    "country_n": "Greece",
+    "language_n": "Greek, Modern"
+  },
+  {
+    "country_n": "Greenland",
+    "language_n": "Kalaallisut, Greenlandic"
+  },
+  {
+    "country_n": "Grenada",
+    "language_n": "English"
+  },
+  {
+    "country_n": "Guadeloupe",
+    "language_n": "French"
+  },
+  {
+    "country_n": "Guam",
+    "language_n": "English"
+  },
+  {
+    "country_n": "Guam",
+    "language_n": "Chamorro"
+  },
+  {
+    "country_n": "Guam",
+    "language_n": "Spanish"
+  },
+  {
+    "country_n": "Guatemala",
+    "language_n": "Spanish"
+  },
+  {
+    "country_n": "Guernsey",
+    "language_n": "English"
+  },
+  {
+    "country_n": "Guernsey",
+    "language_n": "French"
+  },
+  {
+    "country_n": "Guinea",
+    "language_n": "French"
+  },
+  {
+    "country_n": "Guinea",
+    "language_n": "Fula; Fulah; Pulaar; Pular"
+  },
+  {
+    "country_n": "Guinea-Bissau",
+    "language_n": "Portuguese"
+  },
+  {
+    "country_n": "Guyana",
+    "language_n": "English"
+  },
+  {
+    "country_n": "Haiti",
+    "language_n": "French"
+  },
+  {
+    "country_n": "Haiti",
+    "language_n": "Haitian; Haitian Creole"
+  },
+  {
+    "country_n": "Heard Island and McDonald Islands",
+    "language_n": "English"
+  },
+  {
+    "country_n": "Vatican City",
+    "language_n": "Italian"
+  },
+  {
+    "country_n": "Vatican City",
+    "language_n": "Latin"
+  },
+  {
+    "country_n": "Honduras",
+    "language_n": "Spanish"
+  },
+  {
+    "country_n": "Hong Kong",
+    "language_n": "English"
+  },
+  {
+    "country_n": "Hong Kong",
+    "language_n": "Chinese"
+  },
+  {
+    "country_n": "Hungary",
+    "language_n": "Hungarian"
+  },
+  {
+    "country_n": "Iceland",
+    "language_n": "Icelandic"
+  },
+  {
+    "country_n": "India",
+    "language_n": "Hindi"
+  },
+  {
+    "country_n": "India",
+    "language_n": "English"
+  },
+  {
+    "country_n": "Iran",
+    "language_n": "Persian"
+  },
+  {
+    "country_n": "Iraq",
+    "language_n": "Arabic"
+  },
+  {
+    "country_n": "Ireland",
+    "language_n": "English"
+  },
+  {
+    "country_n": "Ireland",
+    "language_n": "Irish"
+  },
+  {
+    "country_n": "Isle of Man",
+    "language_n": "English"
+  },
+  {
+    "country_n": "Isle of Man",
+    "language_n": "Manx"
+  },
+  {
+    "country_n": "Israel",
+    "language_n": "Hebrew (modern)"
+  },
+  {
+    "country_n": "Israel",
+    "language_n": "Arabic"
+  },
+  {
+    "country_n": "Italy",
+    "language_n": "Italian"
+  },
+  {
+    "country_n": "Jamaica",
+    "language_n": "English"
+  },
+  {
+    "country_n": "Japan",
+    "language_n": "Japanese"
+  },
+  {
+    "country_n": "Jersey",
+    "language_n": "English"
+  },
+  {
+    "country_n": "Jersey",
+    "language_n": "French"
+  },
+  {
+    "country_n": "Jordan",
+    "language_n": "Arabic"
+  },
+  {
+    "country_n": "Kazakhstan",
+    "language_n": "Kazakh"
+  },
+  {
+    "country_n": "Kazakhstan",
+    "language_n": "Russian"
+  },
+  {
+    "country_n": "Kenya",
+    "language_n": "English"
+  },
+  {
+    "country_n": "Kenya",
+    "language_n": "Swahili"
+  },
+  {
+    "country_n": "Kiribati",
+    "language_n": "English"
+  },
+  {
+    "country_n": "Kuwait",
+    "language_n": "Arabic"
+  },
+  {
+    "country_n": "Kyrgyzstan",
+    "language_n": "Kirghiz, Kyrgyz"
+  },
+  {
+    "country_n": "Kyrgyzstan",
+    "language_n": "Russian"
+  },
+  {
+    "country_n": "Latvia",
+    "language_n": "Latvian"
+  },
+  {
+    "country_n": "Lebanon",
+    "language_n": "Arabic"
+  },
+  {
+    "country_n": "Lebanon",
+    "language_n": "French"
+  },
+  {
+    "country_n": "Lesotho",
+    "language_n": "English"
+  },
+  {
+    "country_n": "Lesotho",
+    "language_n": "Southern Sotho"
+  },
+  {
+    "country_n": "Liberia",
+    "language_n": "English"
+  },
+  {
+    "country_n": "Libya",
+    "language_n": "Arabic"
+  },
+  {
+    "country_n": "Liechtenstein",
+    "language_n": "German"
+  },
+  {
+    "country_n": "Lithuania",
+    "language_n": "Lithuanian"
+  },
+  {
+    "country_n": "Luxembourg",
+    "language_n": "French"
+  },
+  {
+    "country_n": "Luxembourg",
+    "language_n": "German"
+  },
+  {
+    "country_n": "Luxembourg",
+    "language_n": "Luxembourgish, Letzeburgesch"
+  },
+  {
+    "country_n": "Macau",
+    "language_n": "Chinese"
+  },
+  {
+    "country_n": "Macau",
+    "language_n": "Portuguese"
+  },
+  {
+    "country_n": "Macedonia",
+    "language_n": "Macedonian"
+  },
+  {
+    "country_n": "Madagascar",
+    "language_n": "French"
+  },
+  {
+    "country_n": "Madagascar",
+    "language_n": "Malagasy"
+  },
+  {
+    "country_n": "Malawi",
+    "language_n": "English"
+  },
+  {
+    "country_n": "Malawi",
+    "language_n": "Chichewa; Chewa; Nyanja"
+  },
+  {
+    "country_n": "Maldives",
+    "language_n": "Divehi; Dhivehi; Maldivian;"
+  },
+  {
+    "country_n": "Mali",
+    "language_n": "French"
+  },
+  {
+    "country_n": "Malta",
+    "language_n": "Maltese"
+  },
+  {
+    "country_n": "Malta",
+    "language_n": "English"
+  },
+  {
+    "country_n": "Marshall Islands",
+    "language_n": "English"
+  },
+  {
+    "country_n": "Marshall Islands",
+    "language_n": "Marshallese"
+  },
+  {
+    "country_n": "Martinique",
+    "language_n": "French"
+  },
+  {
+    "country_n": "Mauritania",
+    "language_n": "Arabic"
+  },
+  {
+    "country_n": "Mauritania",
+    "language_n": "French"
+  },
+  {
+    "country_n": "Mauritius",
+    "language_n": "English"
+  },
+  {
+    "country_n": "Mayotte",
+    "language_n": "French"
+  },
+  {
+    "country_n": "Mexico",
+    "language_n": "Spanish"
+  },
+  {
+    "country_n": "Micronesia",
+    "language_n": "English"
+  },
+  {
+    "country_n": "Moldova",
+    "language_n": "Romanian, Moldavian, Moldovan"
+  },
+  {
+    "country_n": "Monaco",
+    "language_n": "French"
+  },
+  {
+    "country_n": "Mongolia",
+    "language_n": "Mongolian"
+  },
+  {
+    "country_n": "Montenegro",
+    "language_n": "Serbian"
+  },
+  {
+    "country_n": "Montenegro",
+    "language_n": "Bosnian"
+  },
+  {
+    "country_n": "Montenegro",
+    "language_n": "Albanian"
+  },
+  {
+    "country_n": "Montenegro",
+    "language_n": "Croatian"
+  },
+  {
+    "country_n": "Montserrat",
+    "language_n": "English"
+  },
+  {
+    "country_n": "Morocco",
+    "language_n": "Arabic"
+  },
+  {
+    "country_n": "Mozambique",
+    "language_n": "Portuguese"
+  },
+  {
+    "country_n": "Namibia",
+    "language_n": "English"
+  },
+  {
+    "country_n": "Namibia",
+    "language_n": "Afrikaans"
+  },
+  {
+    "country_n": "Nauru",
+    "language_n": "English"
+  },
+  {
+    "country_n": "Nauru",
+    "language_n": "Nauru"
+  },
+  {
+    "country_n": "Nepal",
+    "language_n": "Nepali"
+  },
+  {
+    "country_n": "Netherlands",
+    "language_n": "Dutch"
+  },
+  {
+    "country_n": "New Caledonia",
+    "language_n": "French"
+  },
+  {
+    "country_n": "Nicaragua",
+    "language_n": "Spanish"
+  },
+  {
+    "country_n": "Niger",
+    "language_n": "French"
+  },
+  {
+    "country_n": "Nigeria",
+    "language_n": "English"
+  },
+  {
+    "country_n": "Niue",
+    "language_n": "English"
+  },
+  {
+    "country_n": "North Korea",
+    "language_n": "Korean"
+  },
+  {
+    "country_n": "Northern Mariana Islands",
+    "language_n": "English"
+  },
+  {
+    "country_n": "Northern Mariana Islands",
+    "language_n": "Chamorro"
+  },
+  {
+    "country_n": "Norway",
+    "language_n": "Norwegian"
+  },
+  {
+    "country_n": "Oman",
+    "language_n": "Arabic"
+  },
+  {
+    "country_n": "Pakistan",
+    "language_n": "English"
+  },
+  {
+    "country_n": "Pakistan",
+    "language_n": "Urdu"
+  },
+  {
+    "country_n": "Palau",
+    "language_n": "English"
+  },
+  {
+    "country_n": "Palestine",
+    "language_n": "Arabic"
+  },
+  {
+    "country_n": "Palestine",
+    "language_n": "Hebrew (modern)"
+  },
+  {
+    "country_n": "Palestine",
+    "language_n": "English"
+  },
+  {
+    "country_n": "Panama",
+    "language_n": "Spanish"
+  },
+  {
+    "country_n": "Papua New Guinea",
+    "language_n": "English"
+  },
+  {
+    "country_n": "Paraguay",
+    "language_n": "Spanish"
+  },
+  {
+    "country_n": "Paraguay",
+    "language_n": "Guaraní"
+  },
+  {
+    "country_n": "Peru",
+    "language_n": "Spanish"
+  },
+  {
+    "country_n": "Pitcairn Islands",
+    "language_n": "English"
+  },
+  {
+    "country_n": "Poland",
+    "language_n": "Polish"
+  },
+  {
+    "country_n": "Portugal",
+    "language_n": "Portuguese"
+  },
+  {
+    "country_n": "Puerto Rico",
+    "language_n": "Spanish"
+  },
+  {
+    "country_n": "Puerto Rico",
+    "language_n": "English"
+  },
+  {
+    "country_n": "Qatar",
+    "language_n": "Arabic"
+  },
+  {
+    "country_n": "Republic of Kosovo",
+    "language_n": "Albanian"
+  },
+  {
+    "country_n": "Republic of Kosovo",
+    "language_n": "Serbian"
+  },
+  {
+    "country_n": "Réunion",
+    "language_n": "French"
+  },
+  {
+    "country_n": "Romania",
+    "language_n": "Romanian, Moldavian, Moldovan"
+  },
+  {
+    "country_n": "Russia",
+    "language_n": "Russian"
+  },
+  {
+    "country_n": "Rwanda",
+    "language_n": "Kinyarwanda"
+  },
+  {
+    "country_n": "Rwanda",
+    "language_n": "English"
+  },
+  {
+    "country_n": "Rwanda",
+    "language_n": "French"
+  },
+  {
+    "country_n": "Saint Barthélemy",
+    "language_n": "French"
+  },
+  {
+    "country_n": "Saint Helena",
+    "language_n": "English"
+  },
+  {
+    "country_n": "Saint Kitts and Nevis",
+    "language_n": "English"
+  },
+  {
+    "country_n": "Saint Lucia",
+    "language_n": "English"
+  },
+  {
+    "country_n": "Saint Martin",
+    "language_n": "English"
+  },
+  {
+    "country_n": "Saint Martin",
+    "language_n": "French"
+  },
+  {
+    "country_n": "Saint Martin",
+    "language_n": "Dutch"
+  },
+  {
+    "country_n": "Saint Pierre and Miquelon",
+    "language_n": "French"
+  },
+  {
+    "country_n": "Saint Vincent and the Grenadines",
+    "language_n": "English"
+  },
+  {
+    "country_n": "Samoa",
+    "language_n": "Samoan"
+  },
+  {
+    "country_n": "Samoa",
+    "language_n": "English"
+  },
+  {
+    "country_n": "San Marino",
+    "language_n": "Italian"
+  },
+  {
+    "country_n": "São Tomé and Príncipe",
+    "language_n": "Portuguese"
+  },
+  {
+    "country_n": "Saudi Arabia",
+    "language_n": "Arabic"
+  },
+  {
+    "country_n": "Senegal",
+    "language_n": "French"
+  },
+  {
+    "country_n": "Serbia",
+    "language_n": "Serbian"
+  },
+  {
+    "country_n": "Seychelles",
+    "language_n": "French"
+  },
+  {
+    "country_n": "Seychelles",
+    "language_n": "English"
+  },
+  {
+    "country_n": "Sierra Leone",
+    "language_n": "English"
+  },
+  {
+    "country_n": "Singapore",
+    "language_n": "English"
+  },
+  {
+    "country_n": "Singapore",
+    "language_n": "Malay"
+  },
+  {
+    "country_n": "Singapore",
+    "language_n": "Tamil"
+  },
+  {
+    "country_n": "Singapore",
+    "language_n": "Chinese"
+  },
+  {
+    "country_n": "Slovakia",
+    "language_n": "Slovak"
+  },
+  {
+    "country_n": "Slovenia",
+    "language_n": "Slovene"
+  },
+  {
+    "country_n": "Solomon Islands",
+    "language_n": "English"
+  },
+  {
+    "country_n": "Somalia",
+    "language_n": "Somali"
+  },
+  {
+    "country_n": "Somalia",
+    "language_n": "Arabic"
+  },
+  {
+    "country_n": "South Africa",
+    "language_n": "Afrikaans"
+  },
+  {
+    "country_n": "South Africa",
+    "language_n": "English"
+  },
+  {
+    "country_n": "South Africa",
+    "language_n": "South Ndebele"
+  },
+  {
+    "country_n": "South Africa",
+    "language_n": "Southern Sotho"
+  },
+  {
+    "country_n": "South Africa",
+    "language_n": "Swati"
+  },
+  {
+    "country_n": "South Africa",
+    "language_n": "Tswana"
+  },
+  {
+    "country_n": "South Africa",
+    "language_n": "Tsonga"
+  },
+  {
+    "country_n": "South Africa",
+    "language_n": "Venda"
+  },
+  {
+    "country_n": "South Africa",
+    "language_n": "Xhosa"
+  },
+  {
+    "country_n": "South Africa",
+    "language_n": "Zulu"
+  },
+  {
+    "country_n": "South Georgia",
+    "language_n": "English"
+  },
+  {
+    "country_n": "South Korea",
+    "language_n": "Korean"
+  },
+  {
+    "country_n": "Spain",
+    "language_n": "Spanish"
+  },
+  {
+    "country_n": "Sri Lanka",
+    "language_n": "Sinhala, Sinhalese"
+  },
+  {
+    "country_n": "Sri Lanka",
+    "language_n": "Tamil"
+  },
+  {
+    "country_n": "Sudan",
+    "language_n": "Arabic"
+  },
+  {
+    "country_n": "Sudan",
+    "language_n": "English"
+  },
+  {
+    "country_n": "Suriname",
+    "language_n": "Dutch"
+  },
+  {
+    "country_n": "Svalbard and Jan Mayen",
+    "language_n": "Norwegian"
+  },
+  {
+    "country_n": "Swaziland",
+    "language_n": "English"
+  },
+  {
+    "country_n": "Swaziland",
+    "language_n": "Swati"
+  },
+  {
+    "country_n": "Sweden",
+    "language_n": "Swedish"
+  },
+  {
+    "country_n": "Switzerland",
+    "language_n": "German"
+  },
+  {
+    "country_n": "Switzerland",
+    "language_n": "French"
+  },
+  {
+    "country_n": "Switzerland",
+    "language_n": "Italian"
+  },
+  {
+    "country_n": "Syria",
+    "language_n": "Arabic"
+  },
+  {
+    "country_n": "Taiwan",
+    "language_n": "Chinese"
+  },
+  {
+    "country_n": "Tajikistan",
+    "language_n": "Tajik"
+  },
+  {
+    "country_n": "Tajikistan",
+    "language_n": "Russian"
+  },
+  {
+    "country_n": "Tanzania",
+    "language_n": "Swahili"
+  },
+  {
+    "country_n": "Tanzania",
+    "language_n": "English"
+  },
+  {
+    "country_n": "Togo",
+    "language_n": "French"
+  },
+  {
+    "country_n": "Tokelau",
+    "language_n": "English"
+  },
+  {
+    "country_n": "Tonga",
+    "language_n": "English"
+  },
+  {
+    "country_n": "Tonga",
+    "language_n": "Tonga (Tonga Islands)"
+  },
+  {
+    "country_n": "Trinidad and Tobago",
+    "language_n": "English"
+  },
+  {
+    "country_n": "Tunisia",
+    "language_n": "Arabic"
+  },
+  {
+    "country_n": "Tunisia",
+    "language_n": "French"
+  },
+  {
+    "country_n": "Turkey",
+    "language_n": "Turkish"
+  },
+  {
+    "country_n": "Turkmenistan",
+    "language_n": "Dzongkha"
+  },
+  {
+    "country_n": "Turkmenistan",
+    "language_n": "Russian"
+  },
+  {
+    "country_n": "Turks and Caicos Islands",
+    "language_n": "English"
+  },
+  {
+    "country_n": "Tuvalu",
+    "language_n": "English"
+  },
+  {
+    "country_n": "Uganda",
+    "language_n": "English"
+  },
+  {
+    "country_n": "Uganda",
+    "language_n": "Swahili"
+  },
+  {
+    "country_n": "Ukraine",
+    "language_n": "Ukrainian"
+  },
+  {
+    "country_n": "United Arab Emirates",
+    "language_n": "Arabic"
+  },
+  {
+    "country_n": "United Kingdom",
+    "language_n": "English"
+  },
+  {
+    "country_n": "United States",
+    "language_n": "English"
+  },
+  {
+    "country_n": "United States Minor Outlying Islands",
+    "language_n": "English"
+  },
+  {
+    "country_n": "United States Virgin Islands",
+    "language_n": "English"
+  },
+  {
+    "country_n": "Uruguay",
+    "language_n": "Spanish"
+  },
+  {
+    "country_n": "Uzbekistan",
+    "language_n": "Uzbek"
+  },
+  {
+    "country_n": "Uzbekistan",
+    "language_n": "Russian"
+  },
+  {
+    "country_n": "Vanuatu",
+    "language_n": "Bislama"
+  },
+  {
+    "country_n": "Vanuatu",
+    "language_n": "English"
+  },
+  {
+    "country_n": "Vanuatu",
+    "language_n": "French"
+  },
+  {
+    "country_n": "Venezuela",
+    "language_n": "Spanish"
+  },
+  {
+    "country_n": "Vietnam",
+    "language_n": "Vietnamese"
+  },
+  {
+    "country_n": "Wallis and Futuna",
+    "language_n": "French"
+  },
+  {
+    "country_n": "Western Sahara",
+    "language_n": "Spanish"
+  },
+  {
+    "country_n": "Western Sahara",
+    "language_n": "French"
+  },
+  {
+    "country_n": "Yemen",
+    "language_n": "Arabic"
+  },
+  {
+    "country_n": "Zambia",
+    "language_n": "English"
+  },
+  {
+    "country_n": "Zimbabwe",
+    "language_n": "English"
+  },
+  {
+    "country_n": "Zimbabwe",
+    "language_n": "Shona"
+  },
+  {
+    "country_n": "Zimbabwe",
+    "language_n": "North Ndebele"
+  }
+]

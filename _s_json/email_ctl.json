@@ -1,0 +1,39 @@
+[
+
+  {
+    "_ctl_s_n": "emails",
+    "_s_n": "_ctl",
+    "_ctrl_key_n": "email_s_n",
+    "trigger": "select",
+    "trigger_select_key": "email_ty",
+    "trigger_select_choice_primary_w_key": "email_n",
+    "trigger_select_choice_else_w_s": "emails"
+  },
+
+  {
+    "_ctl_s_n": "emails",
+    "_s_n": "_ctl",
+    "_ctrl_key_n": "_eid",
+    "auto_key": true,
+    "auto_key_s": "humans",
+    "auto_key_key": "_id"
+  },
+
+  {
+    "_ctl_s_n": "emails",
+    "_s_n": "_ctl",
+    "insert_key": true,
+    "_ctrl_key_n": "email_ad",
+    "sort": 1
+  },
+
+  {
+    "_ctl_s_n": "emails",
+    "_s_n": "_ctl",
+    "trigger": "_w_schema",
+    "trigger_select_primary": "email_n",
+    "trigger_select_else": "emails",
+    "_ctrl_key_n": "email_ty",
+    "sort": 2
+  }
+]

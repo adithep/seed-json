@@ -1,0 +1,252 @@
+[
+  {
+    "_tri_n": "input_title_n",
+    "_tri_grs": {
+      "input_title_n_gr": {
+        "local_form_gr": "input_form_input",
+        "sort": 0
+      }
+    },
+    "_tri_dis": "title_n",
+    "_tri_ty": "input",
+    "_tri_available": "all",
+    "on_submit": "submit_title_n"
+  },
+
+  {
+    "_tri_n": "input_company_n",
+    "_tri_grs": {
+      "input_company_n_gr": {
+        "local_form_gr": "input_form_input",
+        "sort": 0
+      }
+    },
+    "_tri_dis": "company_n",
+    "_tri_ty": "input",
+    "_tri_available": "all",
+    "on_submit": "submit_company_n"
+  },
+
+  {
+    "_tri_n": "input_first_n",
+    "_tri_grs": {
+      "input_first_n_gr": {
+        "local_form_gr": "input_form_input",
+        "sort": 0
+      }
+    },
+    "_tri_dis": "first_n",
+    "_tri_ty": "input",
+    "_tri_available": "all",
+    "on_submit": "submit_first_n"
+  },
+
+  {
+    "_tri_n": "input_middle_n",
+    "_tri_grs": {
+      "input_middle_n_gr": {
+        "local_form_gr": "input_form_input",
+        "sort": 0
+      }
+    },
+    "_tri_dis": "middle_n",
+    "_tri_ty": "input",
+    "_tri_available": "all",
+    "span_attrs": {"class": "s_liga"},
+    "on_submit": "submit_middle_n"
+  },
+
+  {
+    "_tri_n": "input_last_n",
+    "_tri_grs": {
+      "input_last_n_gr": {
+        "local_form_gr": "input_form_input",
+        "sort": 0
+      }
+    },
+    "_tri_dis": "last_n",
+    "_tri_ty": "input",
+    "_tri_available": "all",
+    "span_attrs": {"class": "s_liga"},
+    "on_submit": "submit_last_n"
+  },
+
+  {
+    "_tri_n": "input_dt_registered",
+    "_tri_grs": {
+      "input_dt_registered_gr": {
+        "local_form_gr": "input_form_input",
+        "sort": 0
+      }
+    },
+    "_tri_dis": "_dt_registered",
+    "_tri_ty": "input",
+    "_tri_available": "all",
+    "span_attrs": {"class": "s_liga"},
+    "on_submit": "submit_dt_registered"
+  },
+
+  {
+    "_tri_n": "input_dt_of_birth",
+    "_tri_grs": {
+      "input_dt_of_birth_gr": {
+        "local_form_gr": "input_form_input",
+        "sort": 0
+      }
+    },
+    "_tri_dis": "_dt_of_birth",
+    "_tri_ty": "input",
+    "_tri_available": "all",
+    "span_attrs": {"class": "s_liga"},
+    "on_submit": "submit_dt_of_birth"
+  },
+
+  {
+    "_tri_n": "input_city_n",
+    "_tri_grs": {
+      "input_city_n_gr": {
+        "local_form_gr": "input_form_input",
+        "sort": 0
+      }
+    },
+    "_tri_dis": "city_n",
+    "on_select": "select_key_country",
+    "_tri_ty": "input",
+    "_tri_available": "all",
+    "span_attrs": {"class": "s_liga"},
+    "on_submit": "submit_city_n"
+  },
+
+  {
+    "_tri_n": "input_country_n",
+    "_tri_grs": {
+      "input_country_n_gr": {
+        "local_form_gr": "input_form_input",
+        "sort": 0
+      }
+    },
+    "_tri_dis": "country_n",
+    "on_select": "limit_key_city",
+    "_tri_ty": "input",
+    "_tri_available": "all",
+    "span_attrs": {"class": "s_liga"},
+    "on_submit": "submit_country_n"
+  },
+
+  {
+    "_tri_n": "input_dte_of_entry",
+    "_tri_grs": {
+      "input_service_gr": {
+        "local_form_gr": "input_form_input",
+        "sort": 0
+      }
+    },
+    "_tri_dis": "_dt_of_entry",
+    "_tri_ty": "input",
+    "_tri_available": "all",
+    "on_submit": "submit_dte_of_entry"
+  },
+
+  {
+    "_tri_n": "input_service_n",
+    "_tri_grs": {
+      "input_service_gr": {
+        "local_form_gr": "input_form_input",
+        "sort": 1
+      }
+    },
+    "_tri_dis": "service_n",
+    "_tri_ty": "input",
+    "_tri_available": "all",
+    "on_submit": "submit_service_n"
+  },
+
+  {
+    "_tri_n": "input_currency_c",
+    "_tri_grs": {
+      "input_service_gr": {
+        "local_form_gr": "input_form_input",
+        "sort": 2
+      }
+    },
+    "_tri_dis": "currency_c",
+    "_tri_ty": "input",
+    "_tri_available": "all",
+    "on_submit": "submit_currency_n"
+  },
+
+  {
+    "_tri_n": "input_cost",
+    "_tri_grs": {
+      "input_service_gr": {
+        "local_form_gr": "input_form_input",
+        "sort": 3
+      }
+    },
+    "_tri_dis": "cost",
+    "_tri_ty": "input",
+    "_tri_available": "all",
+    "span_attrs": {"class": "s_liga"},
+    "on_submit": "submit_cost"
+  },
+
+  {
+    "_tri_n": "input_email_ty",
+    "_tri_grs": {
+      "input_email_gr": {
+        "local_form_gr": "input_form_input",
+        "sort": 0
+      }
+    },
+    "_tri_dis": "email_ty",
+    "_tri_key_n_limit": "Main",
+    "_tri_key_limit_count": 1,
+    "_tri_ty": "input",
+    "_tri_available": "all",
+    "on_submit": "submit_email_ty"
+  },
+
+  {
+    "_tri_n": "input_email_ad",
+    "_tri_grs": {
+      "input_email_gr": {
+        "local_form_gr": "input_form_input",
+        "sort": 1
+      }
+    },
+    "_tri_dis": "email_ad",
+    "_tri_ty": "input",
+    "_tri_available": "all",
+    "span_attrs": {"class": "s_liga"},
+    "on_submit": "submit_email_ad"
+  },
+
+  {
+    "_tri_n": "input_mobile_ty",
+    "_tri_grs": {
+      "input_mobile_gr": {
+        "local_form_gr": "input_form_input",
+        "sort": 0
+      }
+    },
+    "_tri_dis": "mobile_ty",
+    "_tri_ty": "input",
+    "_tri_available": "all",
+    "on_submit": "submit_mobile_ty"
+  },
+
+  {
+    "_tri_n": "input_mobile_num",
+    "_tri_grs": {
+      "input_mobile_gr": {
+        "local_form_gr": "input_form_input",
+        "sort": 1
+      }
+    },
+    "_tri_dis": "mobile_num",
+    "_tri_ty": "input",
+    "_tri_available": "all",
+    "span_attrs": {"class": "s_liga"},
+    "on_submit": "submit_mobile_num"
+  }
+]

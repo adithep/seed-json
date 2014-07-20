@@ -1,0 +1,16 @@
+[
+  {
+    "_tri_n": "input_mobile_ty",
+    "_tri_dis": "mobile_ty",
+    "_tri_ty": "input",
+    "on_submit": "_submit_mobile_ty"
+  },
+
+  {
+    "_tri_n": "input_mobile_num",
+    "_tri_dis": "mobile_num",
+    "_tri_ty": "input",
+    "span_attrs": {"class": "s_liga"},
+    "on_submit": "_submit_mobile_num"
+  }
+]

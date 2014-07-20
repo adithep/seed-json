@@ -1,0 +1,18 @@
+[
+  {
+    "_tri_n": "input_email_ty",
+    "_tri_dis": "email_ty",
+    "_tri_key_n_limit": "Main",
+    "_tri_key_limit_count": 1,
+    "_tri_ty": "input",
+    "on_submit": "_submit_email_ty"
+  },
+
+  {
+    "_tri_n": "input_email_ad",
+    "_tri_dis": "email_ad",
+    "_tri_ty": "input",
+    "span_attrs": {"class": "s_liga"},
+    "on_submit": "_submit_email_ad"
+  }
+]

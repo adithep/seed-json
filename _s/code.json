@@ -1,0 +1,29 @@
+[
+  {
+    "_n": "name",
+    "_c": "code",
+    "_pl": "plural",
+    "_nt": "native",
+    "_tr": "translation",
+    "_st": "string",
+    "_num": "number",
+    "_bl": "boolean",
+    "_dt": "date",
+    "_ad": "address",
+    "_oid": "object_id",
+    "_ty": "type",
+    "_loc": "location",
+    "_s": "schema",
+    "_dis": "display",
+    "_alt": "alternate",
+    "_cmb": "combination",
+    "_ctl": "control",
+    "_mod": "module",
+    "_l": "list",
+    "_eid": "entity id",
+    "_w": "write",
+    "_tri": "trigger",
+    "_btn": "button",
+    "_gr": "group"
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "_ctl_s_n": "human_mobile",
+    "_s_n": "_ctl",
+    "_ctrl_key_s": "humans",
+    "sort": 0
+  },
+
+  {
+    "_ctl_s_n": "human_mobile",
+    "_s_n": "_ctl",
+    "_ctrl_key_n": "human_id",
+    "auto_key": true,
+    "auto_key_from_s": "humans",
+    "auto_key_from_key": "_id"
+  },
+
+  {
+    "_ctl_s_n": "human_mobile",
+    "_s_n": "_ctl",
+    "insert_key": true,
+    "_ctrl_key_n": "mobile_num",
+    "sort": 1
+  },
+
+  {
+    "_ctl_s_n": "human_mobile",
+    "_s_n": "_ctl",
+    "insert_key": true,
+    "_ctrl_key_n": "mobile_ty",
+    "sort": 2
+  }
+]

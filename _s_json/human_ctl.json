@@ -1,0 +1,106 @@
+[
+  {
+    "_ctl_s_n": "humans",
+    "_ctl_w_s_n": "humans",
+    "_s_n": "_ctl",
+    "_ctrl_key_n": "title_n",
+    "_tri_insert": ["init_this"],
+    "_tri_init": ["insert_key"],
+    "_tri_write": ["_w_s_n"],
+    "sort": 0
+  },
+
+  {
+    "_ctl_s_n": "humans",
+    "_ctl_w_s_n": "humans",
+    "_s_n": "_ctl",
+    "_ctrl_key_n": "first_n",
+    "_tri_insert": ["init_this"],
+    "_tri_init": ["insert_key"],
+    "_tri_write": ["_w_s_n"],
+    "sort": 1
+  },
+
+  {
+    "_ctl_s_n": "humans",
+    "_ctl_w_s_n": "humans",
+    "_s_n": "_ctl",
+    "_ctrl_key_n": "middle_n",
+    "_tri_insert": ["_dis_key"],
+    "_tri_init": ["insert_key"],
+    "_tri_write": ["_w_s_n"],
+    "sort": 2
+  },
+
+  {
+    "_ctl_s_n": "humans",
+    "_ctl_w_s_n": "humans",
+    "_s_n": "_ctl",
+    "_ctrl_key_n": "last_n",
+    "_ctrl_key_n": "middle_n",
+    "_tri_insert": ["_dis_key"],
+    "_tri_init": ["insert_key"],
+    "_tri_write": ["_w_s_n"],
+    "sort": 3
+  },
+
+  {
+    "_ctl_s_n": "humans",
+    "_ctl_w_s_n": "humans",
+    "_s_n": "_ctl",
+    "_ctrl_key_n": "_dt_of_birth",
+    "_ctrl_key_n": "middle_n",
+    "_tri_insert": ["_dis_key"],
+    "_tri_init": ["insert_key"],
+    "_tri_write": ["_w_s_n"],
+    "sort": 4
+  },
+
+  {
+    "_ctl_s_n": "humans",
+    "_ctl_w_s_n": "humans",
+    "_s_n": "_ctl",
+    "_ctrl_key_n": "city_n",
+    "trigger": "insert_key",
+    "insert_key_n": "country_n",
+    "_ctrl_key_n": "middle_n",
+    "_tri_insert": ["_dis_key"],
+    "_tri_init": ["insert_key"],
+    "_tri_interact": ["select_key_n"],
+    "_tri_write": ["_w_s_n", "insert_key_n"],
+    "sort": 5
+  },
+
+  {
+    "_ctl_s_n": "humans",
+    "_ctl_w_s_n": "humans",
+    "_s_n": "_ctl",
+    "trigger": "limit_key",
+    "limit_key_n": "city_n",
+    "limit_key_scope": "country_n",
+    "_ctrl_key_n": "country_n",
+    "sort": 6
+  },
+
+  {
+    "_ctl_s_n": "humans",
+    "_s_n": "_ctl",
+    "_ctrl_key_n": "email_ctl_n",
+    "sort": 7
+  },
+
+  {
+    "_ctl_s_n": "humans",
+    "_s_n": "_ctl",
+    "_ctrl_key_n": "mobile_ctl_n",
+    "sort": 8
+  },
+
+  {
+    "_ctl_s_n": "humans",
+    "_s_n": "_ctl",
+    "_ctrl_key_n": "service_ctl_n",
+    "sort": 9
+  }
+
+]

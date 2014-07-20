@@ -1,0 +1,27 @@
+[
+  {
+    "path_n": "forms",
+    "path_tem": "_def",
+    "path_gr": [
+      "form_input"
+    ]
+  },
+
+  {
+    "path_n": "humans_form",
+    "path_tem": "_def",
+    "path_gr": [
+      "human_btn_spa",
+      "humans_input_spa"
+    ]
+  },
+
+  {
+    "path_n": "companies_form",
+    "path_tem": "_def",
+    "path_gr": [
+      "companies_btn_spa",
+      "companies_input_spa"
+    ]
+  }
+]
