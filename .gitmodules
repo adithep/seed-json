@@ -1,12 +1,12 @@
 [submodule "alpha-entity-json"]
-  path = packages/alpha-entity-json
+  path = alpha-entity-json
   url = https://github.com/adithep/alpha-entity-json.git
 [submodule "essential-list-json"]
-  path = packages/essential-list-json
+  path = essential-list-json
   url = https://github.com/adithep/essential-list-json.git
 [submodule "json-control"]
-  path = packages/json-control
+  path = json-control
   url = https://github.com/adithep/json-control.git
 [submodule "web-str-json"]
-  path = packages/web-str-json
+  path = web-str-json
   url = https://github.com/adithep/web-str-json.git
