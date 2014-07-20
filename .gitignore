@@ -4,8 +4,6 @@
 *.sublime-workspace
 node_modules
 node_modules/*
-web-str-json
-web-str-json/*
 .Ulysses-Group.plist
 .meteor/local
 smart.lock
