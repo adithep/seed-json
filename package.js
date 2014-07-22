@@ -7,9 +7,9 @@ Package.on_use(function (api, where) {
   api.add_files([
     'alpha-entity-json/core_team.json',
     'alpha-entity-json/new_company.json',
-    'web-str-json/_s.json',
+    'essential-list-json/_s.json',
+    'essential-list-json/keys.json',
     'web-str-json/_spa.json',
-    'web-str-json/keys.json',
     'web-str-json/paths.json',
     'web-str-json/_tri_btn.json',
     'web-str-json/_tri_input.json',
