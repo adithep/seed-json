@@ -5,6 +5,8 @@ Package.describe({
 Package.on_use(function (api, where) {
   api.use(['coffeescript', 'core-lib', 'utilities']);
   api.add_files([
+    'alpha-entity-json/core_team.json',
+    'alpha-entity-json/new_company.json',
     'web-str-json/_s.json',
     'web-str-json/_spa.json',
     'web-str-json/keys.json',
